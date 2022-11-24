@@ -1,1 +1,5 @@
 **/.idea
+**/target
+GONOGO.iml
+myproject.iml
+test
